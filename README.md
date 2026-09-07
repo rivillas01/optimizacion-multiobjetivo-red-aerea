@@ -46,4 +46,4 @@ La preparación del repositorio no implica una nueva ejecución integral del mod
 
 Angie Katherin Rivillas C.. *Formulación y resolución de un modelo de optimización multiobjetivo para la planificación eficiente y sostenible de redes de transporte internacional de pasajeros bajo restricciones operativas*. Trabajo Fin de Grado, Universidad Internacional de Valencia (VIU), 2026.
 
-URL del repositorio: [añadir URL definitiva tras la publicación].
+URL del repositorio: https://github.com/rivillas01/optimizacion-multiobjetivo-red-aerea
