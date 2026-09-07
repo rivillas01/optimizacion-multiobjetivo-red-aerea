@@ -1,0 +1,11 @@
+ANEXO B. CÓDIGO COMPLETO DE LA IMPLEMENTACIÓN COMPUTACIONAL
+
+El código completo desarrollado en Python mediante Jupyter Notebook se encuentra disponible en el repositorio público [URL PENDIENTE DE PUBLICACIÓN]. El repositorio incluye el cuaderno de implementación, los datos de entrada, los resultados obtenidos y las figuras generadas durante el desarrollo del modelo.
+
+La implementación comprende la construcción del modelo, las optimizaciones monoobjetivo, la matriz de pagos, la generación y resolución de los escenarios ε-Constraint, el tratamiento de duplicidades y dominancia, la normalización de los criterios, la selección de la solución de compromiso y la exportación de resultados.
+
+Autora: Angie Katherin Rivillas C.
+Título: Formulación y resolución de un modelo de optimización multiobjetivo para la planificación eficiente y sostenible de redes de transporte internacional de pasajeros bajo restricciones operativas
+Universidad Internacional de Valencia (VIU)
+Año: 2026
+URL: [COMPLETAR TRAS LA PUBLICACIÓN]
